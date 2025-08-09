@@ -1,4 +1,6 @@
-# PrologueThe Paradox of Electronic Intelligence
+# Prologue
+
+## The Paradox of Electronic Intelligence
 
 We are living in a unique moment in the history of humanity.This is not an era of change; it is a change of era.In silence, without explosions or fanfare, a new type of intelligence has entered our world: Electronic Intelligence.
 
