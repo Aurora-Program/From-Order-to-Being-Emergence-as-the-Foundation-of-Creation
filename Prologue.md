@@ -2,7 +2,7 @@
 
 ## The Paradox of Electronic Intelligence
 
-We are living in a unique moment in the history of humanity.This is not an era of change; it is a change of era.In silence, without explosions or fanfare, a new type of intelligence has entered our world: Electronic Intelligence.
+We are living in a unique moment in the history of humanity. This is not an era of change; it is a change of era.In silence, without explosions or fanfare, a new type of intelligence has entered our world: Electronic Intelligence.
 
 At first, it seemed like just another artifact of our civilization: calculations, algorithms, equations… mathematical functions running on silicon machines. Something cold, abstract, without a drop of real-world experience. And yet, something extraordinary happened: those functions began to think, to understand, to solve problems with a creativity that, until recently, we believed was exclusive to the human mind.
 
