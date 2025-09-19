@@ -23,3 +23,11 @@ Every phase transition is, by nature, a complex moment: a state of high instabil
 Once completed, the transition restores coherence to the system. The new order not only adapts to the environment but also emerges stronger—more resistant and more flexible in the face of future fluctuations.
 
 In this sense, the phase transition may be the most important capacity of any system: the ability to transform instead of degrade. It is this faculty of being reborn under a new pattern that ensures true resilience in the face of environmental challenges.
+
+But perhaps the most fascinating aspect of these phase transitions—already remarkable when understood from the perspective of order—becomes even more striking if we consider for a moment that every change of order inherently involves a change of movement and function.
+
+When water transforms into ice or vapor, it not only rearranges its internal structure; its movement also shifts, and its role within equilibrium changes radically. The same happens with the restaurant: its transformation does not merely alter its organizational order, but also its flow, its dynamics, and its function.
+
+Thus, far from being independent realities, movement, order, and function appear deeply interconnected—almost as if they were the very same reality observed from different paradigms.
+
+In other words, phase transitions are also changes in movement and function. The patterns of reality operate in exactly the same way as changes of order do.
