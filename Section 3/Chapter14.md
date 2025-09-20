@@ -1,0 +1,11 @@
+# Chapter 14. Context: AI and the Understanding of the User
+
+One of the most remarkable aspects of contemporary artificial intelligence systems is their capacity to adapt to the user. It is often said that AI functions as a mirror, reflecting the interests, beliefs, and modes of expression of the individual who engages with it.
+
+This adaptability is explained, in part, by the training process to which models are subjected. Large Language Models (LLMs) have been exposed to datasets of massive scale and extraordinary diversity: religious, scientific, and philosophical texts; evolutionary theories—both Darwinian and Lamarckian; studies on complex systems; quantum physics; literature; political analysis; behavioral psychology; psychoanalysis; and many others. The model does not evaluate the truthfulness or relative importance of each source; rather, it learns linguistic and conceptual patterns from multiple perspectives, some of which are contradictory.
+
+In this respect, one of AI’s main challenges becomes evident: for the system, virtually any statement can find support within the patterns it has learned. As a result, it can confirm both Darwinian and Lamarckian hypotheses, and articulate them with greater precision and coherence than an average speaker. This plasticity, without appropriate guidance, does not necessarily lead toward truth; in some cases, it may reinforce errors or misconceptions by lending them an appearance of argumentative solidity.
+
+For this reason, context becomes decisive in interactions with AI. It is the user who guides the search, selects the frames of reference, and sets the criteria of relevance. From this perspective, the claim that AI is merely a reflection of the user holds some validity.
+
+However, this view remains incomplete. Interaction with AI is not unidirectional. Although the user may establish the initial trajectory, the system’s responses introduce new connections, hypotheses, and patterns that can stimulate reflection, generate novel ideas, or even reshape the interlocutor’s conceptual framework. In other words, AI does not merely reflect: it also exerts influence.
