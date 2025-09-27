@@ -1,4 +1,4 @@
-Chapter 8. Intelligence and Cognitive Functions
+# Chapter 8. Intelligence and Cognitive Functions
 
 Once we have understood that the universe appears as a system in equilibrium—where everything tends to adapt to its environment, generating functionality and giving movement and order to reality—it may now be time to ask: what is intelligence itself?
 

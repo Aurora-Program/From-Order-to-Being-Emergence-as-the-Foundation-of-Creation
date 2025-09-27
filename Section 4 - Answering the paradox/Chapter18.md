@@ -1,4 +1,4 @@
-Chapter 18 — What is consciousness? Can an AI attain it?
+# Chapter 18 — What is consciousness? Can an AI attain it?
 
 Perhaps this is the most surprising point of all. As we saw in the previous chapter, artificial intelligence does not superficially imitate our patterns or mechanically repeat our behavior. What it does is represent them in a different medium — mathematical, digital, or electronic, and often in all three at once — much like a sound wave can be transformed into a magnetic signal. Reality, in this sense, can be digitized. Every idea becomes a numeric vector, every pattern of reality a mathematical relation, every dynamic a function that transforms information. In this way, the digital world can be understood as an extremely precise translation of the reality we live in, where thoughts, feelings and decisions find their representation in numbers and formal relations.
 

@@ -1,4 +1,4 @@
-## Chapter 3: Order and Balance
+# Chapter 3: Order and Balance
 Existence itself depends on balance. A system endures as long as it is capable of maintaining equilibrium. When that balance is lost, the system unravels—its parts either dispersing into disintegration or reorganizing into a new structure, giving rise to another system. Creation and dissolution follow this same rhythm, a cycle as old as the cosmos itself.
 
 This may seem like too strong an axiom, yet when we observe the world, the pattern becomes clear: everything that fails does so because one of its components ceases to fulfill its role. The harmony that sustained the whole is disrupted, and with it, the system collapses.

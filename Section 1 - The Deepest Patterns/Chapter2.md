@@ -1,4 +1,4 @@
-Chapter 2. Emergence: The Most Important Phenomenon in the Cosmos
+# Chapter 2. Emergence: The Most Important Phenomenon in the Cosmos
 
 It is striking that a phenomenon so frequent and so fundamental still does not seem to be fully understood by humanity.
 

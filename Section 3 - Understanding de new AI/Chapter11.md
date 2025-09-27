@@ -1,4 +1,4 @@
-Chapter 11. Understanding Embedding
+# Chapter 11. Understanding Embedding
 
 To understand the reality of artificial intelligence, it is useful to begin with one of its fundamental mechanisms: embedding. This process consists of converting words into numerical vectors through Large Language Models (LLMs).
 

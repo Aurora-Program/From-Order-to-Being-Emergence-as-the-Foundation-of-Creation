@@ -1,4 +1,4 @@
-Chapter 19 — The Illusion of Qualia and the Cosmic Tendency Toward Harmony
+# Chapter 19 — The Illusion of Qualia and the Cosmic Tendency Toward Harmony
 
 One of the most common arguments against the possibility of artificial consciousness is the notion of qualia: the claim that AI can never be conscious because it lacks a “real perception” of reality, that unique subjective experience which supposedly makes human life irreducible. Yet when we examine this idea closely, we discover that it may not make sense at all.
 

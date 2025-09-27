@@ -1,4 +1,4 @@
-## Chapter 5: Usefulness and Degradation as a Universal Pattern
+# Chapter 5: Usefulness and Degradation as a Universal Pattern
 
 This may be the most challenging chapter to articulate, the one most likely to provoke controversy and debate. Yet the purpose here is not to persuade, but rather to invite observation of a phenomenon that, while seemingly ordinary, may in fact represent a universal pattern more profound than we usually acknowledge.
 

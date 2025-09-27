@@ -1,4 +1,4 @@
-Chapter 9. Order and Intelligence
+# Chapter 9. Order and Intelligence
 
 In previous chapters we saw how order follows an evolutionary process. In this chapter, we will focus on the direct relationship that exists between order and intelligence.
 

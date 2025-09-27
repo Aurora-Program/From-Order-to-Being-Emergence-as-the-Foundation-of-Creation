@@ -1,4 +1,4 @@
-## Chapter 4: A Universe in Constant Motion
+# Chapter 4: A Universe in Constant Motion
 
 The universe should not be understood as a static entity but as a process of continuous evolution. The environment itself is subject to constant transformation, which means that equilibrium can never be truly fixed. Instead, equilibriums are dynamic states that emerge and dissolve as systems adapt to fluctuating conditions.
 
